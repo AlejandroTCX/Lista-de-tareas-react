@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github.io/Lista-de-tareas-react/static/css/main.6b971dc9.css",
-    "main.js": "/github.io/Lista-de-tareas-react/static/js/main.0894ff9a.js",
-    "static/media/omega.png": "/github.io/Lista-de-tareas-react/static/media/omega.1ac3076fae2e4ac23e30.png",
-    "index.html": "/github.io/Lista-de-tareas-react/index.html",
-    "main.6b971dc9.css.map": "/github.io/Lista-de-tareas-react/static/css/main.6b971dc9.css.map",
-    "main.0894ff9a.js.map": "/github.io/Lista-de-tareas-react/static/js/main.0894ff9a.js.map"
+    "main.css": "/Lista-de-tareas-react/static/css/main.6b971dc9.css",
+    "main.js": "/Lista-de-tareas-react/static/js/main.dfec29fa.js",
+    "static/media/omega.png": "/Lista-de-tareas-react/static/media/omega.1ac3076fae2e4ac23e30.png",
+    "index.html": "/Lista-de-tareas-react/index.html",
+    "main.6b971dc9.css.map": "/Lista-de-tareas-react/static/css/main.6b971dc9.css.map",
+    "main.dfec29fa.js.map": "/Lista-de-tareas-react/static/js/main.dfec29fa.js.map"
   },
   "entrypoints": [
     "static/css/main.6b971dc9.css",
-    "static/js/main.0894ff9a.js"
+    "static/js/main.dfec29fa.js"
   ]
 }
