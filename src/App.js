@@ -9,7 +9,7 @@ function App() {
 				<img src={omega} className='omega-logo' alt='logo' />
 			</div>
 			<div className='tareas-lista-principal'>
-				<h1>Mis Tareas</h1>
+				<h1>Tareas por hacer</h1>
 				<ListaDeTareas />
 			</div>
 		</div>
