@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Lista-de-tareas-react/static/css/main.6b971dc9.css",
+    "main.css": "/Lista-de-tareas-react/static/css/main.3f8e847e.css",
     "main.js": "/Lista-de-tareas-react/static/js/main.dfec29fa.js",
     "static/media/omega.png": "/Lista-de-tareas-react/static/media/omega.1ac3076fae2e4ac23e30.png",
     "index.html": "/Lista-de-tareas-react/index.html",
-    "main.6b971dc9.css.map": "/Lista-de-tareas-react/static/css/main.6b971dc9.css.map",
+    "main.3f8e847e.css.map": "/Lista-de-tareas-react/static/css/main.3f8e847e.css.map",
     "main.dfec29fa.js.map": "/Lista-de-tareas-react/static/js/main.dfec29fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b971dc9.css",
+    "static/css/main.3f8e847e.css",
     "static/js/main.dfec29fa.js"
   ]
 }
